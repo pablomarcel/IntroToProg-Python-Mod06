@@ -1,0 +1,5 @@
+walk,1
+run,1
+write,8
+publish,88
+breathe,10
